@@ -26,7 +26,4 @@ Skills:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://images.app.goo.gl/FGRqnibFtitvTxEb9)  
 [<img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' alt='python' height='40'>](https://images.app.goo.gl/FGRqnibFtitvTxEb9)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://images.app.goo.gl/FGRqnibFtitvTxEb9)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40' style='fill:#3776AB;'>](https://images.app.goo.gl/FGRqnibFtitvTxEb9)
