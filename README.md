@@ -7,7 +7,12 @@ You can contact me through: [![Gmail](https://img.shields.io/badge/Gmail-D14836?
 
 Im living in Seoul, South Korea. I specialize in image processing, data automation, and AI solutions for real-world challenges. My main tools are Python, TensorFlow, PyTorch, and OpenCV, and I love building models that transform data into valuable insights.
 
-My Socials: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kh1606)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/azem-khusanboev-5a77722b9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/khusanboev06/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aaa-5uh.pages.dev/)  
+My Socials: 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='github' height='40' style='fill:#181717;'>](https://github.com/Kh1606)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/azem-khusanboev-5a77722b9/)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png' alt='instagram' height='40'>](https://www.instagram.com/khusanboev06/)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/ICloud_logo.svg' alt='website' height='40'>](https://aaa-5uh.pages.dev/)
+
 
 Skills:
 
