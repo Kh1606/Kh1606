@@ -25,10 +25,3 @@ Skills:
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
-[<img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' alt='python' height='40'>](https://images.app.goo.gl/FGRqnibFtitvTxEb9)
-
-[<img src='https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg' alt='pytorch' height='40'>](https://pytorch.org/)
-[<img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg' alt='tensorflow' height='40'>](https://www.tensorflow.org/)
-[<img src='https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg' alt='pytorch' height='40'> **PyTorch**](https://pytorch.org/)
-[<img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg' alt='tensorflow' height='40'> **TensorFlow**](https://www.tensorflow.org/)
