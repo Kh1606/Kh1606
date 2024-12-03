@@ -1,4 +1,4 @@
-### Hi there 👋, Hello! Im Alex
+###  Hello! Im Alex
 #### AI developer, Machine/Deep Learning
 ![AI developer, Machine/Deep Learning](https://github.com/Kh1606/Projects/blob/main/Alex.gif)
 
