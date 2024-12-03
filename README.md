@@ -1,7 +1,6 @@
 ###  Hello! Im Alex
 #### AI developer, Machine/Deep Learning
 ![AI developer, Machine/Deep Learning](https://github.com/Kh1606/Projects/blob/main/Alex.gif)
-You can contact me through: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azimjon1606@gmail.com)
 
 
 My PORTFOLIO:[<img src='https://img.icons8.com/color/48/000000/portfolio.png' alt='portfolio' height='40'>](https://aaa-5uh.pages.dev/)
