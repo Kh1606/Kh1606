@@ -27,3 +27,6 @@ Skills:
 
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' alt='python' height='40'>](https://images.app.goo.gl/FGRqnibFtitvTxEb9)
+
+[<img src='https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg' alt='pytorch' height='40'>](https://pytorch.org/)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg' alt='tensorflow' height='40'>](https://www.tensorflow.org/)
