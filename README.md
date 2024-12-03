@@ -1,7 +1,8 @@
 ###  Hello! Im Alex
 #### AI developer, Machine/Deep Learning
 ![AI developer, Machine/Deep Learning](https://github.com/Kh1606/Projects/blob/main/Alex.gif)
-You can contact me through: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azimjon1606@gmail.com)
+You can contact me through: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/khusanboev06/)
+
 
 Im living in Seoul, South Korea. I specialize in image processing, data automation, and AI solutions for real-world challenges. My main tools are Python, TensorFlow, PyTorch, and OpenCV, and I love building models that transform data into valuable insights.
 
