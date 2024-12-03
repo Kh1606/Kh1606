@@ -4,7 +4,7 @@
 You can contact me through: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azimjon1606@gmail.com)
 
 
-My PORTFOLIO:[<img src='https://img.icons8.com/ios-filled/50/000000/domain.png' alt='website' height='40'>](https://aaa-5uh.pages.dev/)
+My PORTFOLIO:[<img src='https://img.icons8.com/color/48/000000/portfolio.png' alt='portfolio' height='40'>](https://aaa-5uh.pages.dev/)
 
 Im living in Seoul, South Korea. I specialize in image processing, data automation, and AI solutions for real-world challenges. My main tools are Python, TensorFlow, PyTorch, and OpenCV, and I love building models that transform data into valuable insights.
 
