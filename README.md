@@ -1,6 +1,6 @@
 ###  Hello! Im Alex
 #### AI Developer, Machine/Deep Learning
-![AI developer, Machine/Deep Learning](https://github.com/Kh1606/Projects/blob/main/Alex.mp4)
+![AI developer, Machine/Deep Learning](https://github.com/Kh1606/Kh1606/blob/main/Alex.mp4)
 
 
 My PORTFOLIO:[<img src='https://img.icons8.com/color/48/000000/portfolio.png' alt='portfolio' height='40'>](https://aaa-5uh.pages.dev/)
