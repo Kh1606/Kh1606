@@ -2,7 +2,6 @@
 #### AI Developer, Machine/Deep Learning
 ![AI developer, Machine/Deep Learning](https://github.com/Kh1606/Kh1606/blob/main/Alexx.gif)
 
-
 My PORTFOLIO:[<img src='https://img.icons8.com/color/48/000000/portfolio.png' alt='portfolio' height='40'>](https://aaa-5uh.pages.dev/)
 
 Im living in Seoul, South Korea. I specialize in image processing, data automation, and AI solutions for real-world challenges. My main tools are Python, TensorFlow, PyTorch, and OpenCV, and I love building models that transform data into valuable insights.
